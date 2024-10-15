@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- <b>Performing Activities on the Network Lab </b>
+
+
 - <b>Active Directory Home Lab </b>
 
 
