@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Performing Activities on the Network Lab </b>
+- <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab!</a>
 
 
 - <b>Active Directory Home Lab </b>
