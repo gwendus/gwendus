@@ -1,8 +1,11 @@
-<h1>Hi, I'm Wendy! <br/><a href="https://github.com/gwendus">Programmer</a>, <a href="https://www.linkedin.com/in/wendy-reyes-rodriguez-36a491211/)/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@Gwendus">YouTuber</a></h1>
+<h1>Hi, I'm Wendy! <br/><a href="https://github.com/gwendus">Programmer</a> and <a href="https://www.linkedin.com/in/wendy-reyes-rodriguez-36a491211/)/">Information Technology Professional</a>.
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
-- <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab!</a>
+- <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a>
+
+- <b>osTicket Lab</a><br />
+<a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a>
 
 
 - <b>Active Directory Home Lab </b>
