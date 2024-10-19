@@ -3,10 +3,13 @@
 <h2>👨‍💻 Projects:</h2>
 
 - <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a>
+<br />
 
-- <b>osTicket Lab</a><br />
-<a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a>
-<a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a>
+  <b>osTicket Lab</a><br />
+
+- <a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a>
+
+- <a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a>
 
 
 
