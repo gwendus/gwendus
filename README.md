@@ -6,6 +6,8 @@
 
 - <b>osTicket Lab</a><br />
 <a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a>
+<a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a>
+
 
 
 - <b>Active Directory Home Lab </b>
