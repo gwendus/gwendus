@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Projects:</h2>
 
+<b>Networking Labs</a><br />
+
 - <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a>
 <br />
 
