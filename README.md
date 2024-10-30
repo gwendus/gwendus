@@ -11,6 +11,7 @@
 
 - <a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a>
 
+- <a href="https://github.com/gwendus/ticket-lifecycleconfiguration">osTicket: Ticket Life Cycle Simulation</a>
 
 
 - <b>Active Directory Home Lab </b>
