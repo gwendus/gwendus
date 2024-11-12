@@ -9,7 +9,7 @@
 - <b><a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a>
 <br />
 
-  <b>osTicket Lab</a><br />
+  <b>Ticket System Lab</a><br />
 
 - <a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a>
 
