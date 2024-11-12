@@ -5,6 +5,8 @@
 <b>Networking Labs</a><br />
 
 - <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a>
+
+- <b><a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a>
 <br />
 
   <b>osTicket Lab</a><br />
