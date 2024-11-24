@@ -7,6 +7,15 @@
 - <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a>
 
 - <b><a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a>
+
+Active Directory Lab <br />
+
+ ★ <a href="https://github.com/gwendus/ADInfrastructureInAzure">Preparing Active Directory Infrastructure in Microsoft Azure</a><br>
+ ★ Deploying Active Directory <br>
+ ★ Creating Users with Powershell <br>
+ ★ Group Policy and Managing Accounts <br>
+ 
+  
 <br />
 
   <b>Ticket System Lab</a><br />
