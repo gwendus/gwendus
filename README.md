@@ -10,7 +10,7 @@
 
 Active Directory Lab <br />
 
- ★ <a href="https://github.com/gwendus/ADInfrastructureInAzure">Preparing Active Directory Infrastructure in Microsoft Azure</a><br>
+ ★ <a href="https://github.com/gwendus/ADInfrastructureInAzure/blob/main/README.md">Preparing Active Directory Infrastructure in Microsoft Azure</a><br>
  ★ Deploying Active Directory <br>
  ★ Creating Users with Powershell <br>
  ★ Group Policy and Managing Accounts <br>
