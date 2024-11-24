@@ -8,10 +8,11 @@
 
 - <b><a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a>
 
-Active Directory Lab <br />
+<br />
 
+Active Directory Lab <br>
  ★ <a href="https://github.com/gwendus/ADInfrastructureInAzure/blob/main/README.md">Preparing Active Directory Infrastructure in Microsoft Azure</a><br>
- ★ Deploying Active Directory <br>
+ ★ <a href="https://github.com/gwendus/DeployingAD/blob/main/README.md">Deploying Active Directory</a><br>
  ★ Creating Users with Powershell <br>
  ★ Group Policy and Managing Accounts <br>
  
@@ -25,9 +26,6 @@ Active Directory Lab <br />
 - <a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a>
 
 - <a href="https://github.com/gwendus/ticket-lifecycle">osTicket: Ticket Life Cycle Simulation</a>
-
-
-- <b>Active Directory Home Lab </b>
 
 
 <h2> 🤳 Connect with me:</h2>
