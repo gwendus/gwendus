@@ -13,7 +13,7 @@
 Active Directory Lab <br>
  ★ <a href="https://github.com/gwendus/ADInfrastructureInAzure/blob/main/README.md">Preparing Active Directory Infrastructure in Microsoft Azure</a><br>
  ★ <a href="https://github.com/gwendus/DeployingAD/blob/main/README.md">Deploying Active Directory</a><br>
- ★ Creating Users with Powershell <br>
+ ★ <a href="https://github.com/gwendus/CreatingUsersWithPowerSHell/blob/main/README.md">Creating Users with PowerShell</a><br>
  ★ Group Policy and Managing Accounts <br>
  
   
