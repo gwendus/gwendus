@@ -1,13 +1,14 @@
-<h1>Hi, I'm Wendy! <br/><a href="https://github.com/gwendus">Programmer</a> and <a href="https://www.linkedin.com/in/wendy-reyes-rodriguez-36a491211/)/">Information Technology Professional</a>.
-
+<h1>Hola, I'm Wendy! <br/><a href="https://github.com/gwendus">Programmer</a> and <a href="https://www.linkedin.com/in/wendy-reyes-rodriguez-36a491211/)/">IT Professional</a>.</h1>
+<br />
+IT professional with a passion for problem-solving, cybersecurity, and learning. I'm focused on developing my skills in helpdesk support and SOC environments. <br />
+When I’m not working with tech, I’m baking up something delicious in the kitchen – it keeps me creative! I’m excited to connect, collaborate, and grow within the tech community.
 <h2>👨‍💻 Projects:</h2>
 
 <b>Networking Labs</a><br />
-
-- <b><a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a>
-
-- <b><a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a>
-
+👥<a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a><br>
+👥<a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a><br>
+👥<a href="https://github.com/gwendus/DNS-Lab/blob/main/README.md">DNS Lab</a><br>
+ 
 <br />
 
 Active Directory Lab <br>
@@ -20,12 +21,9 @@ Active Directory Lab <br>
 <br />
 
   <b>Ticket System Lab</a><br />
-
-- <a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a>
-
-- <a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a>
-
-- <a href="https://github.com/gwendus/ticket-lifecycle">osTicket: Ticket Life Cycle Simulation</a>
+☺<a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a><br>
+☺<a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a><br>
+☺<a href="https://github.com/gwendus/ticket-lifecycle">osTicket: Ticket Life Cycle Simulation</a><br>
 
 
 <h2> 🤳 Connect with me:</h2>
