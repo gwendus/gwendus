@@ -22,9 +22,9 @@ Active Directory Lab <br>
 <br />
 
   <b>Ticket System Lab</a><br />
-☺<a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a><br>
-☺<a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a><br>
-☺<a href="https://github.com/gwendus/ticket-lifecycle">osTicket: Ticket Life Cycle Simulation</a><br>
+✓<a href="https://github.com/gwendus/osTicket-Setup/blob/main/README.md">osTicket: Prerequisites & Installation</a><br>
+✓<a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a><br>
+✓<a href="https://github.com/gwendus/ticket-lifecycle">osTicket: Ticket Life Cycle Simulation</a><br>
 
 
 <h2> 🤳 Connect with me:</h2>
