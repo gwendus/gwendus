@@ -6,9 +6,9 @@ When I’m not working with tech, I’m baking up something delicious in the kit
 
 <b>Networking Labs</a><br />
 👥<a href="https://github.com/gwendus/NetworkTrafficLab/blob/main/README.md">Performing Activities on the Network Lab</a><br>
-👥<a href="https://github.com/gwendus/VPNLab/blob/main/README.md">VPN Practice Lab</a><br>
-👥<a href="https://github.com/gwendus/DNS-Lab/blob/main/README.md">DNS Lab</a><br>
-👥<a href="https://github.com/gwendus/NFSPLab/blob/main/README.md">Network File Sharing and Permissions Lab</a><br>
+👥<a href="https://github.com/gwendus/VPNLab/blob/main/README.md">Virtual Private Networks Practice</a><br>
+👥<a href="https://github.com/gwendus/DNS-Lab/blob/main/README.md">Domain Name System</a><br>
+👥<a href="https://github.com/gwendus/NFSPLab/blob/main/README.md">Network File Sharing and Permissions</a><br>
  
 <br />
 
