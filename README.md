@@ -1,7 +1,9 @@
 <h1>Hola, I'm Wendy! <br/><a href="https://github.com/gwendus">Programmer</a> and <a href="https://www.linkedin.com/in/wendy-reyes-rodriguez-36a491211/)/">IT Professional</a>.</h1>
 <br />
-IT professional with a passion for problem-solving, cybersecurity, and learning. I'm focused on developing my skills in helpdesk support and SOC environments. <br />
-When I’m not working with tech, I’m baking up something delicious in the kitchen – it keeps me creative! I’m excited to connect, collaborate, and grow within the tech community.
+🤓 IT professional with a passion for problem-solving, security, and continuous learning. <br />
+I'm focused on developing my skills in helpdesk support and SOC environments. 🧙🏻‍ <br /> 
+🍬 When I’m not working on projects, I’m likely baking 🎂 – it keeps me creative! <br />
+I’m excited to connect, collaborate, and grow within the tech community. 🌐
 <h2>👨‍💻 Projects:</h2>
 
 <b>Networking Labs</a><br />
