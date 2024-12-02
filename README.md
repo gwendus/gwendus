@@ -3,7 +3,7 @@
 🤓 IT professional with a passion for problem-solving, security, and continuous learning. <br />
 I'm focused on developing my skills in helpdesk support and SOC environments. 🧙🏻‍ <br /> 
 🍬 When I’m not working on projects, I’m likely baking 🎂 – it keeps me creative! <br />
-I’m excited to connect, collaborate, and grow within the tech community. 🌐
+I’m excited to connect, collaborate, and grow within the tech community. 🤖
 <h2>👨‍💻 Projects:</h2>
 
 <b>Networking Labs</a><br />
@@ -28,15 +28,6 @@ Active Directory Lab <br>
 ✓<a href="https://github.com/gwendus/post-installation-configuration">osTicket: Post-Installation Config</a><br>
 ✓<a href="https://github.com/gwendus/ticket-lifecycle">osTicket: Ticket Life Cycle Simulation</a><br>
 
-
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="GwendusLearning | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Wendy Reyes Rodriguez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[youtube]: https://www.youtube.com/@Gwendus
-[linkedin]: https://www.linkedin.com/in/wendy-reyes-rodriguez-36a491211/
 
 <!--
 **gwendus/gwendus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
